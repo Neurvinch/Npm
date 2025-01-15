@@ -1,0 +1,22 @@
+{
+  "name": "ronaldo",
+  "version": "1.0.0",
+  "description": "just a demo things Suiii>>>>",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neurvinch/Npm.git"
+  },
+  "keywords": [
+    "Sui......"
+  ],
+  "author": "Naveen Pandian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neurvinch/Npm/issues"
+  },
+  "homepage": "https://github.com/Neurvinch/Npm#readme"
+}
